@@ -2,12 +2,13 @@ head{
   background-color: grey
 }
 .navbar{
-  background-color: white;
+  background-color: orange;
+  margin: 20px;
+  padding: 10px;
   font-size: 24px;
   font-weight: bold;
   text-align: center;
-  text-decoration-color: yellow;
-
+  text-decoration-color: none;
 }
 
 h1{text-align: center;
@@ -82,6 +83,12 @@ background-color:black;
     padding-top: 10px;
     background: grey;
   }
+.News{
+  text-align: center;
+  color: Red;
+  font-size: 28px;
+  font-weight: bold;
+}
 
 
 
